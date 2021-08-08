@@ -1,4 +1,4 @@
-package com.anderson.minhasfinancias.model.entity;
+package com.anderson.minhasfinancias.model.enums;
 
 public enum TipoLacamento {
     RECEITA,
